@@ -242,7 +242,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Pour toute question ou problème :
 - Ouvrez une issue sur GitHub
-- Contactez l'équipe de développement
+- Contactez moi
 
 ---
 

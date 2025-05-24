@@ -42,10 +42,10 @@ const Footer = () => {
           <div>
             <h3 className="mb-4 text-lg font-semibold">Contact</h3>
             <address className="not-italic text-gray-400">
-              <p>123 Rue du Commerce</p>
-              <p>75000 Paris, France</p>
-              <p className="mt-2">Email: contact@myshop.com</p>
-              <p>Téléphone: +33 1 23 45 67 89</p>
+              <p>123 Rue de la Paix</p>
+              <p>Dakar, Senegal</p>
+              <p className="mt-2">Email: contact@juleshop.com</p>
+              <p>Téléphone: +221 77 167 02 10</p>
             </address>
           </div>
         </div>
