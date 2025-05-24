@@ -120,7 +120,7 @@ src/
 
 1. **Cloner le projet**
 ```bash
-git clone <url-du-repo>
+git clone <https://github.com/Souleye05/product-manager-react>
 cd product-manager-react
 ```
 
